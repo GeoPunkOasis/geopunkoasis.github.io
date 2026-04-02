@@ -143,9 +143,16 @@ strong {
   background-color: var(--dark-color) !important;
 }
 
+.bg-darkblue {
+  background-color: #2f6db4;
+}
+
 /*------------ Border Radius -----------*/
 .border-rounded-10 {
   border-radius: 10px;
+}
+.border-rounded-20 {
+  border-radius: 20px;
 }
 
 /* - Section Padding
